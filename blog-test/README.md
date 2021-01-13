@@ -9,6 +9,7 @@
 * 肖战
 
 虽然大学学过代码，但目前属于小白，在网上找了一些代码复制过来：
+
 `times { |n| puts "Happy Birthday #{n==2 ? "dear Tony" : "to You"}" }`
 
 ```javascript
@@ -20,4 +21,5 @@ f()
 ```
 
 最后附上我idol的美图
+
 ![idol美图](1.jpg)
